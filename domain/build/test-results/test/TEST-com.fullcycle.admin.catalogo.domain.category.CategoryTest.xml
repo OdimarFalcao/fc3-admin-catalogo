@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.fullcycle.admin.catalogo.domain.category.CategoryTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-09-27T16:41:27" hostname="FALCAOF14" time="0.02">
+<testsuite name="com.fullcycle.admin.catalogo.domain.category.CategoryTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-01-18T02:00:09" hostname="FALCAOF14" time="0.021">
   <properties/>
-  <testcase name="givenAInvalidNullName_whenCallNewCategoryAndValidate_thenShouldReceiveError()" classname="com.fullcycle.admin.catalogo.domain.category.CategoryTest" time="0.02"/>
+  <testcase name="givenAValidCategory_whenCallUpdateWithInvalidParams_thenReturnCategoryUpdated()" classname="com.fullcycle.admin.catalogo.domain.category.CategoryTest" time="0.021"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
